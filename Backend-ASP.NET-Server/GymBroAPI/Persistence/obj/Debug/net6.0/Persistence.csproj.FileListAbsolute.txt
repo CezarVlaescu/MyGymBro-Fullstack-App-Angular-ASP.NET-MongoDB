@@ -1,0 +1,5 @@
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache

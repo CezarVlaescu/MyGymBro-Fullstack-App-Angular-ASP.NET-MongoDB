@@ -1,0 +1,5 @@
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Application Layer\obj\Debug\net6.0\Application Layer.csproj.AssemblyReference.cache
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Application Layer\obj\Debug\net6.0\Application Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Application Layer\obj\Debug\net6.0\Application Layer.AssemblyInfoInputs.cache
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Application Layer\obj\Debug\net6.0\Application Layer.AssemblyInfo.cs
+C:\Users\vlaes\OneDrive\Desktop\GymBroApp\Backend-ASP.NET-Server\GymBroAPI\Application Layer\obj\Debug\net6.0\Application Layer.csproj.CoreCompileInputs.cache

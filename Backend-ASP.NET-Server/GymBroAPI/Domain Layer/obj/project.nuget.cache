@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuBEk5mjVecSnV6kDR7Keo8sGeeR5yE7C9BNNHzEZTKBA4QaDdiMT2NhU5uXy2zIVI0/aoT4nuI/qz7t8de3FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlaes\\OneDrive\\Desktop\\GymBroApp\\Backend-ASP.NET-Server\\GymBroAPI\\Domain Layer\\Domain Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlaes\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
